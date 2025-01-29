@@ -30,15 +30,15 @@ install Active Directory Domain Services on Domain Controller and create a new f
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-29 at 4 13 44 AM" src="https://github.com/user-attachments/assets/72ef4ab4-ec18-4222-ab84-4d437e31f4d1" />
 </p>
 <p>
-In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called _EMPLOYEES, _ADMINS, and _CLIENTS
+In Active Directory Users and Computers (ADUC), create a couple of Organizational Units (OU's) called _EMPLOYEES, _ADMINS, and _CLIENTS
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-29 at 4 13 44 AM" src="https://github.com/user-attachments/assets/9b02064b-a166-458b-a21b-29f0e7acf254" />
 </p>
 <p>
   Create a Domain Admin user within the domain
@@ -47,7 +47,7 @@ Create a new employee and add them to the “Domain Admins” Security Group
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-29 at 4 16 21 AM" src="https://github.com/user-attachments/assets/6b6aebc1-c5d2-4e07-9d37-038fabd840b0" />
 </p>
 <p>
   Join Client-1 to your domain
@@ -56,7 +56,7 @@ Login to Client-1 as the original local admin and join it to the domain, log bac
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-29 at 4 17 37 AM" src="https://github.com/user-attachments/assets/850e0267-d339-4c81-a067-402d1a9c9edf" />
 </p>
 <p>
   Setup Remote Desktop for non-administrative users on Client-1
