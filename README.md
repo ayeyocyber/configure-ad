@@ -30,7 +30,7 @@ install Active Directory Domain Services on Domain Controller and create a new f
 <br />
 
 <p>
-<img width="1680" alt="Screenshot 2025-01-29 at 4 13 44 AM" src="https://github.com/user-attachments/assets/72ef4ab4-ec18-4222-ab84-4d437e31f4d1" />
+<img width="1680" alt="Screenshot 2025-01-29 at 4 26 08 AM" src="https://github.com/user-attachments/assets/d9bd9e29-c952-45a4-9857-d966c95d139b" />
 </p>
 <p>
 In Active Directory Users and Computers (ADUC), create a couple of Organizational Units (OU's) called _EMPLOYEES, _ADMINS, and _CLIENTS
