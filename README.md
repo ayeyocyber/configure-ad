@@ -24,7 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img width="1680" alt="Screenshot 2025-01-28 at 8 09 10 PM" src="https://github.com/user-attachments/assets/7e01345c-8573-45a5-86e8-603c111a87c4" />
 </p>
 <p>
-  Install Active Directory
+
 install Active Directory Domain Services on Domain Controller and create a new forest(can be anything, just remember what it is), then log back in: Ex. mydomain.com\labuser
 </p>
 <br />
