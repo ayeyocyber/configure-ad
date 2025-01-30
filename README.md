@@ -41,7 +41,7 @@ In Active Directory Users and Computers (ADUC), create a couple of Organizationa
 <img width="1680" alt="Screenshot 2025-01-29 at 4 13 44 AM" src="https://github.com/user-attachments/assets/9b02064b-a166-458b-a21b-29f0e7acf254" />
 </p>
 <p>
-  Create a Domain Admin user within the domain
+  Create a Domain Admin user, within the domain
 Create a new employee and add them to the “Domain Admins” Security Group
 </p>
 <br />
